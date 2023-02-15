@@ -1,2 +1,2 @@
 #!/bin/bash
-RS=$(find . -type d -mindepth $n)
+find
