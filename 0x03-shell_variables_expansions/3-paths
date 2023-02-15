@@ -1,2 +1,2 @@
 #!/bin/bash
-find (-d)
+DIRS=$ find . -type d -mindepth $n
